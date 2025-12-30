@@ -138,7 +138,7 @@ Each instance is fully isolated.
 
 ## License
 
-MCPL
+APPL (Check LICENSE)
 
 ---
 
