@@ -8,10 +8,8 @@ It provides a static waveform, scrubbing, playback speed control, loop support, 
 
 ## Installation
 
-Host `audioplus.js` anywhere (Render static, GitHub Pages, local, etc.) and include it:
-
 ```html
-<script src="audioplus.js"></script>
+<script src="https://audioplus-7n9b.onrender.com/audioplus.min.js"></script>
 ```
 
 ---
