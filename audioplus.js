@@ -285,7 +285,7 @@ customElements.define("audio-plus", AudioPlus);
   );
 
   console.log(
-    "%chttps://example.com/docs",
+    "%chttps://github.com/zimoshi/audioplus",
     "color:#16a34a;text-decoration:underline;font-family:system-ui,sans-serif;"
   );
 
